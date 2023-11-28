@@ -2,5 +2,5 @@
 <p/>
 
 <p align="center">
-<img alt="GIF" src="[https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true](https://tenor.com/uopFjzm8fkx.gif)https://tenor.com/uopFjzm8fkx.gif" height="280" />
+<img alt="GIF" src="https://tenor.com/o9Kzv0KXkcN.gif" height="500" />
 <p/>
