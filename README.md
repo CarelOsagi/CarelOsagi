@@ -3,7 +3,7 @@
 <p/>
 
 ## 💻 &nbsp; About Me
-
+- 🏫 1st Semester Informatics college student
 - 🎓️ I'm currently studying Informatics at Universitas Negeri Padang 
 - 🌱️ In the process of learning C languange and web development in HTML5
 ## 💻 Tech Stack:
