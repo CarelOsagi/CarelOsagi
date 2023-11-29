@@ -16,9 +16,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/988831637389312030)
-<a href="https://www.instagram.com/carel.osagi"/>
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/carel.osagi)
 <a href="https://mail.google.com/mail/u/carel498@gmail.com"/>
   <img src="https://img.shields.io/badge/Gmail-gray.svg?logo=Gmail&logoColor=red"/>
 </a>
