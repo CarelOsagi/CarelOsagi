@@ -13,13 +13,15 @@
 
 ## 💻 Currently Learning :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=c++&logoColor=white)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/988831637389312030)
 <a href="https://www.instagram.com/carel.osagi"/>
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://mail.google.com/mail/u/carel498@gmail.com"/>
-  <img src="https://img.shields.io/badge/Gmail-%E9EFEF.svg?logo=Gmail&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Gmail-gray.svg?logo=Gmail&logoColor=red"/>
 </a>
+
 ##
 [![](https://visitcount.itsvg.in/api?id=Bobskyz&icon=5&color=2)](https://visitcount.itsvg.in)
