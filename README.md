@@ -2,12 +2,12 @@
 <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&duration=2500&pause=2500&color=8343F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Carel+Habsian+Osagi" alt="Typing SVG" /></a> </h1>
 <p/>
 
-## 💻 About Me :
+## 🌠 About Me :
 - 🏫 1st semester Informatics college student
 - 🎓️ I'm currently studying Informatics at Universitas Negeri Padang 
 - 🌱️ In the process of learning C languange and web development in HTML5
 
-## 📑 Currently Learning :
+## 💻 Currently Learning :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## 🌐 Socials:
