@@ -22,4 +22,4 @@
 </a>
 
 ##
-[![](https://visitcount.itsvg.in/api?id=CarelOsagi&icon=5&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CarelOsagi&icon=5&color=6)](https://visitcount.itsvg.in)
