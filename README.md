@@ -14,7 +14,7 @@
 ## 💻 Currently Learning :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) ![Cpp](https://img.shields.io/badge/C++-%231572B6.svg?logo=C++&logoColor=white)
 
-## 🌐 Socials:
+## 🌐 Contact me :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/988831637389312030)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/carel.osagi)
 <a href="https://mail.google.com/mail/u/carel498@gmail.com"/>
