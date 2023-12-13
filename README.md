@@ -20,6 +20,16 @@
 <a href="https://mail.google.com/mail/u/carel498@gmail.com"/>
   <img src="https://img.shields.io/badge/Gmail-gray.svg?logo=Gmail&logoColor=red"/>
 </a>
-
-##
-[![](https://visitcount.itsvg.in/api?id=CarelOsagi&icon=5&color=6)](https://visitcount.itsvg.in)
+***<h1 align="left">Quote of the the day</h1>***
+<div align="center"><img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"></div><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="left">
+ <b style = {font-weight: 600}>Visitors Count</b>
+<p align="left"><img align="left" src="https://profile-counter.glitch.me/{CarelOsagi}/count.svg" /></p> 
+<br>
+</div>
